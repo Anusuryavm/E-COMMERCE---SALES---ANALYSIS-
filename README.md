@@ -140,15 +140,5 @@ Summary metrics derived from **2,000 transactions**:
 │   └── Transformed_Sales_Data.xlsx     # Cleaned dataset with Star Schema
 └── dashboard/
     └── E-Commerce_Sales_Dashboard.xlsx # Interactive Pivot Tables & Dashboards
-```
 
----
 
-## 🚀 How to Use / Reproduce
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/ecommerce-excel-capstone.git
-   ```
-2. **Open workbook in Microsoft Excel:** Launch `E-Commerce_Sales_Dashboard.xlsx`.
-3. **Explore Data Modeling:** Inspect sheet relationships across `Customer_Dim`, `Product_Dim`, `Store_Dim`, and `Sales_Fact`.
-4. **Interact with Dashboards:** Utilize Excel Slicers (Region, Year, Loyalty Level) to filter interactive pivot charts dynamically.
